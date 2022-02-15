@@ -2,13 +2,20 @@
   text-align: center;
 }
 
-.App-logo {
+.apple {
   height: 40vmin;
+}
+
+.banana {
+  height: 60vmin;
+}
+
+.logo {
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
